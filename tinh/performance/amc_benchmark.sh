@@ -1,0 +1,1 @@
+amc benchmark -p webrtc -f --userdata '{"display_width":1280,"display_height":720,"fps":30,"benchmark":{"enabled":true}}' --measure-time $2m --network-address 10.76.87.223 --num-containers $1 c8aobrrcf9vd0fru00ug 

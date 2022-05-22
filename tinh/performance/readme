@@ -1,0 +1,2 @@
+chrome://flags/#enable-webrtc-hide-local-ips-with-mdns 
+./amc_benchmark.sh <num_containers> <time>
